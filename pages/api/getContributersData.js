@@ -118,6 +118,12 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
-    }
+    },
+    {
+      name: 'Minshad',
+      img: 'https://avatars.githubusercontent.com/u/52422231?s=96&v=3',
+      github: 'https://github.com/minshadk',
+      linkedin: 'https://www.linkedin.com/in/minshad-k-37249120b/'
+    },
   ]);
 }
